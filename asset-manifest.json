@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-timeline/static/css/main.a7b77b3f.css",
+    "main.js": "/react-timeline/static/js/main.3cc55732.js",
+    "index.html": "/react-timeline/index.html",
+    "main.a7b77b3f.css.map": "/react-timeline/static/css/main.a7b77b3f.css.map",
+    "main.3cc55732.js.map": "/react-timeline/static/js/main.3cc55732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b77b3f.css",
+    "static/js/main.3cc55732.js"
+  ]
+}
